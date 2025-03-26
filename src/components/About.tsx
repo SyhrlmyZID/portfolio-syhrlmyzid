@@ -58,7 +58,7 @@ const About = () => {
                       <br />
                       &nbsp;&nbsp;{`"status": "Pelajar",`}
                       <br />
-                      &nbsp;&nbsp;{`"umur": 18`}
+                      &nbsp;&nbsp;{`"umur": 18 Tahun`}
                       <br />
                       {`}`}
                     </div>
