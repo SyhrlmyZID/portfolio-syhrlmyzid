@@ -44,7 +44,7 @@ const Contact = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center max-w-2xl mx-auto mb-12">
           <h2 className="text-3xl font-bold mb-2">
-            <span className="text-hacker-red font-cyber">&gt;</span> Contact
+            <span className="text-hacker-red font-cyber">&gt;</span> Kontak
           </h2>
           <div className="w-20 h-1 bg-hacker-red mx-auto mb-6"></div>
           <p className="text-gray-300 font-code">
