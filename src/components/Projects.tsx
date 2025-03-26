@@ -5,14 +5,14 @@ const projectsData = [
   {
     title: "AI Prompt",
     description: "Pada foto tersebut saya sedang membuat sebuah website Wifi Customer Management System dalam 1 prompt.",
-    tags: ["HTML", "CSS", "TailwindCSS", "PHP", "Mysql"],
+    tags: ["HTML", "CSS", "TailwindCSS", "Javascript", "PHP", "Mysql"],
     image: "/img/project_1.PNG"
   },
   {
-    title: "E-Commerce Dashboard",
-    description: "Interactive dashboard for e-commerce analytics with responsive design and real-time data visualization.",
-    tags: ["React", "Tailwind CSS", "Chart.js"],
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
+    title: "SyhrlmyZ Games",
+    description: "Saya juga sekarang sedang membuat project website menyediakan game gratis / crack dengan fitur website tanpa iklan dan mudah.",
+    tags: ["HTML", "CSS", "TailwindCSS", "Javascript"],
+    image: "/img/project_2.PNG"
   },
   {
     title: "Personal Assistant UI",
