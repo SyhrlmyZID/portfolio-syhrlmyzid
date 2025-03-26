@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { cn } from '@/lib/utils';
 import { ChevronDown } from 'lucide-react';
 
-const words = ["PROMPT ENGINEER", "FRONT-END DEVELOPER", "HACKER"];
+const words = ["PROMPT ENGINEER", "FRONT-END DEVELOPER"];
 
 const Hero = () => {
   const [index, setIndex] = useState(0);
@@ -51,7 +51,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 py-24 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-hacker-red font-cyber text-sm md:text-base tracking-widest mb-4 animate-fade-in">
-            INITIALIZE SEQUENCE: IDENTIFY [USER]
+            SELAMAT DATANG DI PORTFOLIO
           </p>
           
           <h1 
@@ -69,9 +69,6 @@ const Hero = () => {
           </div>
           
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 animate-fade-in" style={{ animationDelay: '0.5s' }}>
-            <button className="px-8 py-3 bg-hacker-red text-white font-medium rounded-sm transition-all hover:bg-red-700 hover:scale-105 hover:shadow-lg hover:shadow-hacker-red/20 active:scale-95">
-              VIEW PROJECTS
-            </button>
             <button className="px-8 py-3 bg-transparent border border-hacker-red text-hacker-red font-medium rounded-sm transition-all hover:bg-hacker-red/10 hover:scale-105 hover:shadow-lg hover:shadow-hacker-red/20 active:scale-95">
               CONTACT ME
             </button>
