@@ -5,31 +5,27 @@ const skillCategories = [
   {
     name: "Prompt Engineering",
     skills: [
-      { name: "GPT Prompt Design", level: 90 },
-      { name: "Context Optimization", level: 85 },
-      { name: "Parameter Tuning", level: 80 },
-      { name: "Output Formatting", level: 85 },
-      { name: "Prompt Chaining", level: 75 },
+      { name: "Design Prompt", level: 70 },
+      { name: "Optimasi Prompt", level: 65 },
+      { name: "Output", level: 85 },
     ]
   },
   {
     name: "Front-End Development",
     skills: [
-      { name: "HTML/CSS", level: 90 },
-      { name: "JavaScript", level: 85 },
-      { name: "React", level: 80 },
-      { name: "Tailwind CSS", level: 85 },
-      { name: "UI/UX Design", level: 75 },
+      { name: "HTML/CSS", level: 70 },
+      { name: "JavaScript", level: 30 },
+      { name: "Tailwind CSS", level: 80 },
+      { name: "UI/UX Design", level: 60 },
+      { name: "Responsive Design", level: 90 },
     ]
   },
   {
-    name: "Other Skills",
+    name: "Skills Lainnya",
     skills: [
-      { name: "Git & GitHub", level: 80 },
-      { name: "Responsive Design", level: 85 },
-      { name: "API Integration", level: 75 },
-      { name: "Web Performance", level: 70 },
-      { name: "Problem Solving", level: 85 },
+      { name: "Git & GitHub", level: 40 },
+      { name: "Problem Solving", level: 60 },
+      { name: "Jaringan Komputer", level: 50 },
     ]
   }
 ];
@@ -71,7 +67,7 @@ const Skills = () => {
           </h2>
           <div className="w-20 h-1 bg-hacker-red mx-auto mb-6"></div>
           <p className="text-gray-300 font-code">
-            My technical expertise and proficiency in various technologies and methodologies.
+              Keahlian saya dalam berbagai teknologi.
           </p>
         </div>
 
