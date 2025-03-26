@@ -7,9 +7,7 @@ const projectsData = [
     title: "AI Prompt Generator",
     description: "A tool to create optimized prompts for various AI platforms with templates and adjustable parameters.",
     tags: ["React", "Node.js", "GPT API"],
-    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-    demoLink: "#",
-    repoLink: "#"
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
   },
   {
     title: "E-Commerce Dashboard",
@@ -81,7 +79,7 @@ const Projects = () => {
           </h2>
           <div className="w-20 h-1 bg-hacker-red mx-auto mb-6"></div>
           <p className="text-gray-300 font-code">
-            A collection of my most notable projects, showcasing my skills and expertise.
+            Berikut terdapat beberapa foto saya sedang mengerjakan project.
           </p>
         </div>
 
