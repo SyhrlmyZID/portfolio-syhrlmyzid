@@ -71,14 +71,15 @@ const About = () => {
 
           <div className={`md:w-1/2 transition-all duration-1000 delay-300 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
             <h2 className="text-3xl font-bold mb-2">
-              <span className="text-hacker-red font-cyber">&gt;</span> About Me
+              <span className="text-hacker-red font-cyber">&gt;</span> Tentang Saya
             </h2>
             <div className="w-20 h-1 bg-hacker-red mb-6"></div>
-            
+
             <p className="text-gray-300 mb-8 leading-relaxed font-code">
-              Hello! I'm a passionate Prompt Engineer and Front-End Developer with a keen interest in creating seamless digital experiences. Currently pursuing my education at SMK, I blend technical expertise with creative problem-solving.
+              Hai! Saya Syahrul, seorang Front End Developer dan Prompt Engineer berusia 18 tahun. Saat ini, saya sedang menempuh pendidikan di SMK Al-Madani jurusan Rekayasa Perangkat Lunak.
+              Keahlian saya meliputi HTML, CSS, TailwindCSS, dan JavaScript. Saya sangat menyukai teknologi web dan selalu antusias untuk terus belajar hal-hal baru dalam pengembangan antarmuka digital.
             </p>
-            
+
             <div className="grid grid-cols-1 md:grid-cols-2 gap-y-6 gap-x-8">
               <div className="flex items-center gap-3">
                 <User className="h-5 w-5 text-hacker-red" />
@@ -87,7 +88,7 @@ const About = () => {
                   <p className="font-medium">Syahrul M.Y</p>
                 </div>
               </div>
-              
+
               <div className="flex items-center gap-3">
                 <Calendar className="h-5 w-5 text-hacker-red" />
                 <div>
@@ -95,7 +96,7 @@ const About = () => {
                   <p className="font-medium">18 Years</p>
                 </div>
               </div>
-              
+
               <div className="flex items-center gap-3">
                 <Code className="h-5 w-5 text-hacker-red" />
                 <div>
@@ -103,7 +104,7 @@ const About = () => {
                   <p className="font-medium">Prompt Engineering, Front-End</p>
                 </div>
               </div>
-              
+
               <div className="flex items-center gap-3">
                 <GraduationCap className="h-5 w-5 text-hacker-red" />
                 <div>
