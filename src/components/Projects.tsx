@@ -32,6 +32,12 @@ const projectsData = [
     tags: ["HTML", "CSS", "Javascript", "TailwindCSS", "Laravel"],
     image: "/img/project_5.png"
   },
+  {
+    title: "IP-Info Python",
+    description: "Project ip-info ini adalah sebuah tools yang dimana dengan memasukan url/ip website maka akan mendapatkan beberapa informasi tentang website tersebut.",
+    tags: ["Python"],
+    image: "https://github.com/SyhrlmyZID/ip-info/blob/main/img/screenshot.png?raw=true"
+  },
 ];
 
 const Projects = () => {
