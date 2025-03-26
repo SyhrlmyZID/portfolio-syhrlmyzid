@@ -52,13 +52,9 @@ const About = () => {
                       <br />
                       &nbsp;&nbsp;{`"nama": "Syahrul M.Y",`}
                       <br />
-                      &nbsp;&nbsp;{`"alias": "SyhrlmyZID",`}
-                      <br />
-                      &nbsp;&nbsp;{`"keahlian": "Prompt Engineer & Front End Developer",`}
+                      &nbsp;&nbsp;{`"hobi": "Bermain Game, Modding, Mempelajari Hal Baru:)",`}
                       <br />
                       &nbsp;&nbsp;{`"status": "Pelajar",`}
-                      <br />
-                      &nbsp;&nbsp;{`"umur": 18 Tahun`}
                       <br />
                       {`}`}
                     </div>

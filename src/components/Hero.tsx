@@ -51,7 +51,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 py-24 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-hacker-red font-cyber text-sm md:text-base tracking-widest mb-4 animate-fade-in">
-            SELAMAT DATANG DI PORTFOLIO
+            WELCOME TO MY PORTFOLIO
           </p>
           
           <h1 
