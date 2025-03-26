@@ -50,15 +50,15 @@ const About = () => {
                     <div className="text-gray-400">
                       {`{`}
                       <br />
-                      &nbsp;&nbsp;{`"name": "Syahrul M.Y",`}
+                      &nbsp;&nbsp;{`"nama": "Syahrul M.Y",`}
                       <br />
                       &nbsp;&nbsp;{`"alias": "SyhrlmyZID",`}
                       <br />
-                      &nbsp;&nbsp;{`"occupation": "Prompt Engineer & Front End Developer",`}
+                      &nbsp;&nbsp;{`"keahlian": "Prompt Engineer & Front End Developer",`}
                       <br />
-                      &nbsp;&nbsp;{`"status": "Student",`}
+                      &nbsp;&nbsp;{`"status": "Pelajar",`}
                       <br />
-                      &nbsp;&nbsp;{`"age": 18`}
+                      &nbsp;&nbsp;{`"umur": 18`}
                       <br />
                       {`}`}
                     </div>
@@ -83,32 +83,32 @@ const About = () => {
               <div className="flex items-center gap-3">
                 <User className="h-5 w-5 text-hacker-red" />
                 <div>
-                  <p className="text-sm text-gray-400">Full Name</p>
-                  <p className="font-medium">Syahrul M.Y</p>
+                  <p className="text-sm text-gray-400">Nama Lengkap</p>
+                  <p className="font-medium">Syahrul Muhamad Yusuf</p>
                 </div>
               </div>
 
               <div className="flex items-center gap-3">
                 <Calendar className="h-5 w-5 text-hacker-red" />
                 <div>
-                  <p className="text-sm text-gray-400">Age</p>
-                  <p className="font-medium">18 Years</p>
+                  <p className="text-sm text-gray-400">Umur</p>
+                  <p className="font-medium">18 Tahun</p>
                 </div>
               </div>
 
               <div className="flex items-center gap-3">
                 <Code className="h-5 w-5 text-hacker-red" />
                 <div>
-                  <p className="text-sm text-gray-400">Expertise</p>
-                  <p className="font-medium">Prompt Engineering, Front-End</p>
+                  <p className="text-sm text-gray-400">Keahlian</p>
+                  <p className="font-medium">Prompt Engineer, Front-End</p>
                 </div>
               </div>
 
               <div className="flex items-center gap-3">
                 <GraduationCap className="h-5 w-5 text-hacker-red" />
                 <div>
-                  <p className="text-sm text-gray-400">Education</p>
-                  <p className="font-medium">SMK Student</p>
+                  <p className="text-sm text-gray-400">Sekolah</p>
+                  <p className="font-medium">SMK Al-Madani Garut</p>
                 </div>
               </div>
             </div>
