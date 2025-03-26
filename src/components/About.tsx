@@ -72,7 +72,7 @@ const About = () => {
             <div className="w-20 h-1 bg-hacker-red mb-6"></div>
 
             <p className="text-gray-300 mb-8 leading-relaxed font-code">
-              Hai! Saya Syahrul, seorang Front End Developer dan Prompt Engineer berusia 18 tahun. Saat ini, saya sedang menempuh pendidikan di SMK Al-Madani jurusan Rekayasa Perangkat Lunak. Selain membuat website saya juga suka dalam mempelajari teknologi baru seperti software.
+              Hai! Saya Syahrul, seorang Front End Developer dan Prompt Engineer berusia 18 tahun. Saat ini, saya sedang menempuh pendidikan di SMK Al-Madani jurusan Rekayasa Perangkat Lunak. Selain membuat website saya juga suka dalam mempelajari teknologi baru seperti software atau membuat software sendiri.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-y-6 gap-x-8">
