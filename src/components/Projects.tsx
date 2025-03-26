@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 const projectsData = [
   {
     title: "Portfolio V2",
-    description: "Saya pernah mengembangkan portfolio berbasis terminal jika ingin mengunjungi nya silakan: syhrlmyzid.github.io/portfolio-v2",
+    description: "Saya juga mengembangkan portfolio berbasis terminal jika ingin mengunjungi nya silakan: syhrlmyzid.github.io/portfolio-v2",
     tags: ["HTML", "CSS", "TailwindCSS", "Javascript", "PHP", "Mysql"],
     image: "https://github.com/SyhrlmyZID/portfolio-v2/blob/main/screenshot.PNG?raw=true"
   },
@@ -25,6 +25,12 @@ const projectsData = [
     description: "Project kali ini yaitu mirip todolist yang dimana sitem nya mencatat customer yang berlangganan.",
     tags: ["HTML", "CSS", "Javascript", "TailwindCSS", "PHP", "Mysql"],
     image: "/img/project_4.PNG"
+  },
+  {
+    title: "Migrasi Data Klipaa",
+    description: "Saya pernah prakerin di PT. Klipaa indonesia melakukan migrasi data desa ke aplikasi terbaru.",
+    tags: ["HTML", "CSS", "Javascript", "TailwindCSS", "Laravel"],
+    image: "/img/project_5.PNG"
   }
 ];
 
