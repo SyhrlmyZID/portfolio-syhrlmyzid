@@ -59,7 +59,7 @@ const Projects = () => {
           </h2>
           <div className="w-20 h-1 bg-hacker-red mx-auto mb-6"></div>
           <p className="text-gray-300 font-code">
-            Berikut terdapat beberapa foto saya sedang mengerjakan project.
+            Berikut beberapa project yang pernah atau sedang saya kerjakan.
           </p>
         </div>
 
