@@ -35,7 +35,7 @@ const Footer = () => {
           <div className="text-center">
             <p className="text-gray-400 text-sm mb-2">
               <span className="flex items-center justify-center">
-                © {year} SyhrlmyZID. Made with <Heart className="h-3 w-3 text-hacker-red mx-1" /> and code.
+                © {year} SyhrlmyZID
               </span>
             </p>
             <p className="text-gray-500 text-xs">
