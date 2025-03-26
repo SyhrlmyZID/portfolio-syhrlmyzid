@@ -3,10 +3,10 @@ import { useState, useEffect } from 'react';
 
 const projectsData = [
   {
-    title: "AI Prompt",
-    description: "Pada foto tersebut saya sedang membuat sebuah website Wifi Customer Management System dalam 1 prompt.",
+    title: "Portfolio V2",
+    description: "Saya pernah mengembangkan portfolio berbasis terminal jika ingin mengunjungi nya silakan: syhrlmyzid.github.io/portfolio-v2",
     tags: ["HTML", "CSS", "TailwindCSS", "Javascript", "PHP", "Mysql"],
-    image: "/img/project_1.PNG"
+    image: "https://github.com/SyhrlmyZID/portfolio-v2/blob/main/screenshot.PNG?raw=true"
   },
   {
     title: "SyhrlmyZ Games",
