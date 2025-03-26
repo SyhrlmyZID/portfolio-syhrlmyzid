@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 const projectsData = [
   {
     title: "AI Prompt",
-    description: "A tool to create optimized prompts for various AI platforms with templates and adjustable parameters.",
-    tags: ["React", "Node.js", "GPT API"],
-    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
+    description: "Pada foto tersebut saya sedang membuat sebuah website Wifi Customer Management System dalam 1 prompt.",
+    tags: ["HTML", "CSS", "TailwindCSS", "PHP", "Mysql"],
+    image: "../public/img/project-1.png"
   },
   {
     title: "E-Commerce Dashboard",
