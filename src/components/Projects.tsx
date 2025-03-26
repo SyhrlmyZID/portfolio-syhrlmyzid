@@ -1,3 +1,4 @@
+
 import { useState, useEffect } from 'react';
 
 const projectsData = [
@@ -66,7 +67,7 @@ const Projects = () => {
           {projectsData.map((project, index) => (
             <div 
               key={index}
-              className={`glass-card rounded-md overflow-hidden transition-all duration-500 hover:shadow-lg hover:shadow-hacker-red/50 hover:-translate-y-2 $ {
+              className={`glass-card rounded-md overflow-hidden transition-all duration-500 hover:shadow-lg hover:shadow-hacker-red/50 hover:-translate-y-2 ${
                 isVisible 
                   ? 'opacity-100 translate-y-0' 
                   : 'opacity-0 translate-y-10'
