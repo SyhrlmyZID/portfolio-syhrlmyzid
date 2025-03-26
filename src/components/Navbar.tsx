@@ -4,11 +4,11 @@ import { Menu, X, Terminal } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const navItems = [
-  { name: 'Home', href: '#home' },
-  { name: 'About', href: '#about' },
-  { name: 'Skills', href: '#skills' },
-  { name: 'Projects', href: '#projects' },
-  { name: 'Contact', href: '#contact' },
+  { name: 'Beranda', href: '#home' },
+  { name: 'Tentang Saya', href: '#about' },
+  { name: 'Skill', href: '#skills' },
+  { name: 'Projek', href: '#projects' },
+  { name: 'Kontak', href: '#contact' },
 ];
 
 const Navbar = () => {
