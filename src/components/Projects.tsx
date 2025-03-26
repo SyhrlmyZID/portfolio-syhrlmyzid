@@ -4,7 +4,7 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projectsData = [
   {
-    title: "AI Prompt Generator",
+    title: "AI Prompt",
     description: "A tool to create optimized prompts for various AI platforms with templates and adjustable parameters.",
     tags: ["React", "Node.js", "GPT API"],
     image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
