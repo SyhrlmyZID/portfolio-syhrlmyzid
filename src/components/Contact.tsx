@@ -1,5 +1,4 @@
-
-import { Mail, Instagram, Tiktok, Youtube } from 'lucide-react';
+import { Mail, Instagram, TikTok, Youtube } from 'lucide-react';
 
 const Contact = () => {
   return (
@@ -70,7 +69,7 @@ const Contact = () => {
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-3 bg-hacker-gray rounded-sm hover:bg-hacker-red/20 transition-colors"
               >
-                <Tiktok size={18} className="text-gray-300" />
+                <TikTok size={18} className="text-gray-300" />
                 <span className="text-white">TikTok</span>
               </a>
               
