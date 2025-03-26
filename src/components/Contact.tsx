@@ -54,7 +54,7 @@ const Contact = () => {
             
             <div className="grid grid-cols-2 gap-4">
               <a 
-                href="https://www.instagram.com/username" 
+                href="https://www.instagram.com/@syhrlmyz.id" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-3 bg-hacker-gray rounded-sm hover:bg-hacker-red/20 transition-colors"
@@ -64,7 +64,7 @@ const Contact = () => {
               </a>
               
               <a 
-                href="https://www.tiktok.com/@username" 
+                href="https://www.tiktok.com/@syhrlmyz.id" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-3 bg-hacker-gray rounded-sm hover:bg-hacker-red/20 transition-colors"
@@ -74,7 +74,7 @@ const Contact = () => {
               </a>
               
               <a 
-                href="https://www.youtube.com/channel/username" 
+                href="https://www.youtube.com/channel/syhrlmyz.id" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-3 bg-hacker-gray rounded-sm hover:bg-hacker-red/20 transition-colors"
