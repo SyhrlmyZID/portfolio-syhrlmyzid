@@ -69,8 +69,15 @@ const Hero = () => {
           </div>
           
           <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 animate-fade-in" style={{ animationDelay: '0.5s' }}>
-            <button className="px-8 py-3 bg-transparent border border-hacker-red text-hacker-red font-medium rounded-sm transition-all hover:bg-hacker-red/10 hover:scale-105 hover:shadow-lg hover:shadow-hacker-red/20 active:scale-95">
-              CONTACT ME
+            <button 
+            onClick={() => {
+              const aboutSection = document.getElementById("about");
+              if (aboutSection) {
+                aboutSection.scrollIntoView({ behavior: "smooth"});
+              }
+            }}
+            className="px-8 py-3 bg-transparent border border-hacker-red text-hacker-red font-medium rounded-sm transition-all hover:bg-hacker-red/10 hover:scale-105 hover:shadow-lg hover:shadow-hacker-red/20 active:scale-95">
+              LIHAT SELENGKAPNYA!
             </button>
           </div>
         </div>
