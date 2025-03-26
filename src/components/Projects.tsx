@@ -110,4 +110,3 @@ const Projects = () => {
 };
 
 export default Projects;
-Peru
