@@ -6,7 +6,7 @@ const projectsData = [
     title: "AI Prompt",
     description: "Pada foto tersebut saya sedang membuat sebuah website Wifi Customer Management System dalam 1 prompt.",
     tags: ["HTML", "CSS", "TailwindCSS", "PHP", "Mysql"],
-    image: "../public/img/project-1.png"
+    image: "/img/project-1.png"
   },
   {
     title: "E-Commerce Dashboard",
