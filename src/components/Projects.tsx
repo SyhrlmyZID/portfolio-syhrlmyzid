@@ -15,16 +15,16 @@ const projectsData = [
     image: "/img/project_2.PNG"
   },
   {
-    title: "Personal Assistant UI",
-    description: "Modern user interface for a virtual assistant with voice commands and customizable themes.",
-    tags: ["JavaScript", "CSS", "Speech API"],
-    image: "https://images.unsplash.com/photo-1618912690063-4d9a34465174?auto=format&fit=crop&w=800&q=80"
+    title: "Todo-List | Luxe Task",
+    description: "Saya juga telah membuat website Todo-List bernama Luxe Task untuk project kegiatan Ujikompetensi.",
+    tags: ["HTML", "CSS", "Javascript", "TailwindCSS", "PHP", "Mysql"],
+    image: "/img/project_3.PNG"
   },
   {
-    title: "Portfolio Generator",
-    description: "Web application that helps users create professional portfolios with minimal effort.",
-    tags: ["TypeScript", "React", "Firebase"],
-    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80"
+    title: "Wifi Customer Management System",
+    description: "Project kali ini yaitu mirip todolist yang dimana sitem nya mencatat customer yang berlangganan.",
+    tags: ["HTML", "CSS", "Javascript", "TailwindCSS", "PHP", "Mysql"],
+    image: "/img/project_4.PNG"
   }
 ];
 
