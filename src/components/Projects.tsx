@@ -29,6 +29,7 @@ const projectsData = [
   {
     title: "Migrasi Data Klipaa",
     description: "Saya pernah prakerin di PT. Klipaa indonesia melakukan migrasi data desa ke aplikasi terbaru.",
+    tags: ["Hd"]
     image: "/img/project_5.png"
   },
   {
